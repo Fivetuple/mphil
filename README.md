@@ -1,6 +1,5 @@
 # mphil
-A language identifier which uses an n-gram probability model
-#!/usr/bin/python
+# A language identifier which uses an n-gram probability model
 #
 #
 #  PJM 2006
